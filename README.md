@@ -1,1 +1,1 @@
-# NER---Name-Entity-Recognition-using-NLP-and-BiLSTM
+# NER-Name_Entity_Recognition_using_NLP_and_BiLSTM
